@@ -1,5 +1,5 @@
-[1.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/researchgate200.png (ResearchGate)
-[2.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/linkedin200.png (LinkedIn)
+[1.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/researchgate75.png (ResearchGate)
+[2.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/linkedin75.png (LinkedIn)
 
 [1]: https://www.researchgate.net/profile/Luis-De-La-Torre-Cubillo
 [2]: https://www.linkedin.com/in/luis-de-la-torre-cubillo-9610b759/
@@ -18,6 +18,8 @@ I started developing open source code while doing my Ph.D. in Computer Science, 
 Since then, I have worked on integrating virtual and remote HTML5 online labs into Moodle and other Learning Management Systems, connecting HTML5 apps with real devices through LabVIEW, Matlab/Simulink, Python and Arduino.
 
 Nebulous Systems is a spin-off company from the University of Huelva we funded to develop and commercialize a cloud IoT platform to enable the remote operation and use of lab equipment, either with research or educational purposes.
+
+Reach me out!
 
 [![ResearchGate][1.1]][1]&nbsp;&nbsp;
 [![LinkedIn][2.1]][2]&nbsp;&nbsp;
