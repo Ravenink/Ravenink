@@ -1,5 +1,5 @@
-[1.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/researchgate.svg (ResearchGate)
-[2.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/linkedin.svg (LinkedIn)
+[1.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/researchgate.png (ResearchGate)
+[2.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/linkedin.png (LinkedIn)
 
 [1]: https://www.researchgate.net/profile/Luis-De-La-Torre-Cubillo
 [2]: https://www.linkedin.com/in/luis-de-la-torre-cubillo-9610b759/
