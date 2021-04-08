@@ -15,7 +15,7 @@
 
 I started developing open source code while doing my Ph.D. in Computer Science, creating plugins for Moodle.
 
-Since then, I have worked on integrating virtual and remote HTML5 online labs into Moodle and other Learning Management Systems, connecting HTML5 apps with real devices through LabVIEW, Matlab/Simulink, Python and Arduino.
+Since then, I have worked on integrating virtual and remote HTML5 online labs into Moodle and other Learning Management Systems, developing communication protocols with applications in Event-Based Control and the IoT or connecting HTML5 apps with real devices through LabVIEW, Matlab/Simulink, Python and Arduino.
 
 Nebulous Systems is a spin-off company from the University of Huelva we funded to develop and commercialize a cloud IoT platform to enable the remote operation and use of lab equipment, either with research or educational purposes.
 
