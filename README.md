@@ -9,7 +9,7 @@
 
 ## Hey, I'm Luis de la Torre!
 
-<img align='right' src='https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/me-thumbnail.png' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/me.jpg' width='200"'>
 
 > I am a university teacher in UNED (for those of you who do not know, that's the Spanish Open University) and co-Founder of Nebulous Systems.
 
