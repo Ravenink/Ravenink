@@ -4,7 +4,7 @@
 [1]: https://www.researchgate.net/profile/Luis-De-La-Torre-Cubillo
 [2]: https://www.linkedin.com/in/luis-de-la-torre-cubillo-9610b759/
 
-!["Luis de la Torre"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/channel-art.jpg)
+!["Luis de la Torre"](https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/headline.jpg)
 
 
 ## Hey, I'm Luis de la Torre!
