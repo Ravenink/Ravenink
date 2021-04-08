@@ -1,16 +1,23 @@
-### Hi there 👋
+[1.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/researchgate.svg (ResearchGate)
+[2.1]: https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/linkedin.svg (LinkedIn)
 
-<!--
-**Ravenink/Ravenink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[1]: https://www.researchgate.net/profile/Luis-De-La-Torre-Cubillo
+[2]: https://www.linkedin.com/in/luis-de-la-torre-cubillo-9610b759/
 
-Here are some ideas to get you started:
+!["Luis de la Torre"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/channel-art.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hey, I'm Luis de la Torre!
+
+<img align='right' src='https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/me-thumbnail.png' width='200"'>
+
+> I am a university teacher in UNED (for those of you who do not know, that's the Spanish Open University) and co-Founder of Nebulous Systems.
+
+I started developing open source code while doing my Ph.D. in Computer Science, creating plugins for Moodle.
+
+Since then, I have worked on integrating virtual and remote HTML5 online labs into Moodle and other Learning Management Systems, connecting HTML5 apps with real devices through LabVIEW, Matlab/Simulink, Python and Arduino.
+
+Nebulous Systems is a spin-off company from the University of Huelva we funded to develop and commercialize a cloud IoT platform to enable the remote operation and use of lab equipment, either with research or educational purposes.
+
+[![ResearchGate][1.1]][1]&nbsp;&nbsp;
+[![LinkedIn][2.1]][2]&nbsp;&nbsp;
