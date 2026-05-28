@@ -7,7 +7,7 @@
 !["Luis de la Torre"](https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/headline.png)
 
 
-## Hey, I'm Luis de la Torre!
+## Hey, I'm Dr. de la Torre!
 
 <img align='right' src='https://raw.githubusercontent.com/Ravenink/Ravenink/master/images/me.jpg' width='200"'>
 
